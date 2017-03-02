@@ -1,0 +1,24 @@
+{
+  "name": "jsdifflib",
+  "authors": [
+    "Chas Emerick <cemerick@snowtide.com>"
+  ],
+  "description": "jsdifflib - A Javascript visual diff tool & library",
+  "main": [
+    "difflib.js",
+    "diffview.js",
+    "diffview.css"
+  ],
+  "license": "BSD",
+  "homepage": "https://github.com/cemerick/jsdifflib",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}
