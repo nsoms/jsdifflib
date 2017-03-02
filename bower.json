@@ -7,7 +7,8 @@
   "main": [
     "difflib.js",
     "diffview.js",
-    "diffview.css"
+    "diffview.css",
+    "jsdifflib.scss"
   ],
   "license": "BSD",
   "homepage": "https://github.com/cemerick/jsdifflib",
