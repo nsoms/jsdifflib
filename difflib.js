@@ -411,3 +411,4 @@ var difflib = {
 	}
 };
 
+module.exports = difflib;

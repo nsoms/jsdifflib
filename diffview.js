@@ -196,3 +196,4 @@ diffview = {
 	}
 };
 
+module.exports = diffview;
