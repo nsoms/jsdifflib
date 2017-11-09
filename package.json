@@ -1,0 +1,26 @@
+{
+  "name": "ns3-jsdifflib",
+  "version": "1.1.4",
+  "description": "A diff library to compare text differences between two texts.",
+  "main": "index.js",
+  "directories": {
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+  },
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nsoms/jsdifflib.git"
+  },
+  "keywords": [
+    "jsdifflib",
+    "diffchecker",
+    "text",
+    "difference"
+  ],
+  "author": "Chas Emerick",
+  "license": "BSD",
+  "homepage": "https://github.com/cemerick/jsdifflib#readme"
+}
